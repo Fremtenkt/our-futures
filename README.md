@@ -1,5 +1,4 @@
 Våre fremtider
-
  =========== 
 
 Våre fremtider (engelsk: *Our Futures*) er et spill som oppfordrer deg til å forestille deg nye måter å involvere mennesker i å tenke på fremtiden. Det kan spilles av hvem som helst, men er spesielt relevant for fremtidstenkere, kunstnere, designere og teknologer, så vel som alle som har ansvar for å engasjere eller konsultere publikum. Spillere (enkeltpersoner eller lag) konkurrerer om å utforme scenarier for nye typer deltakende fremtidsaktiviteter som kombinerer nye teknologier og fokuserer på å takle utfordringer fra det 21. århundre, for eksempel tap av biologisk mangfold eller ekstreme værhendelser. 
