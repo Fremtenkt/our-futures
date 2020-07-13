@@ -3,7 +3,7 @@ Våre fremtider
 
 Våre fremtider (engelsk: *Our Futures*) er et spill som oppfordrer deg til å forestille deg nye måter for involvere mennesker i å tenke på fremtiden. Det kan spilles av hvem som helst, men er spesielt relevant for fremtidstenkere, kunstnere, designere og teknologer, så vel som alle som har ansvar for å engasjere eller konsultere publikum. Spillere (enkeltpersoner eller lag) konkurrerer om å utforme scenarier for nye typer deltakende fremtidsaktiviteter som kombinerer nye teknologier og fokuserer på å takle utfordringer fra det 21. århundre, for eksempel tap av biologisk mangfold eller ekstreme værhendelser. 
 
-Skaperen av spillet, [Nesta](https://nesta.org), har utgitt designfilene med en åpen lisens slik at de kan oversettes eller tilpasses. På basis av disse filene har [Fremtenkt](https://fremtenkt.no) laget en norsk versjon til bruk i norskspråklige sammenhenger. Du kan lese mer om spillet og dets utvikling [på Nesta-nettstedet](https://www.nesta.org.uk/feature/our-futures/).
+Skaperen av spillet, [Nesta](https://www.nesta.org.uk), har utgitt designfilene med en åpen lisens slik at de kan oversettes eller tilpasses. På basis av disse filene har [Fremtenkt](https://fremtenkt.no) laget en norsk versjon til bruk i norskspråklige sammenhenger. Du kan lese mer om spillet og dets utvikling [på Nesta-nettstedet](https://www.nesta.org.uk/feature/our-futures/).
 
 I tråd med den åpne lisensen er det også fritt frem for andre å tilpasse denne norske versjonen av Våre fremtider.
 
