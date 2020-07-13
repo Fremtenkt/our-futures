@@ -1,33 +1,34 @@
-Our Futures
-===========
+Våre fremtider
 
-Our Futures is a game that encourages you to imagine new ways to involve people in thinking about the future. It can be played by anyone but is particularly relevant for futures professionals, artists, designers and technologists, as well as anyone with responsibility for engaging or consulting the public. Players (individuals or teams) compete to devise scenarios for new types of participatory futures activities that combine emerging technologies and a focus on tackling 21st century challenges, such as biodiversity loss or extreme weather events.
+ =========== 
 
-We've open sourced the design files so you can translate or adapt the game. Instructions on how to do this using GitHub are below.
+Våre fremtider (engelsk: *Our Futures*) er et spill som oppfordrer deg til å forestille deg nye måter å involvere mennesker i å tenke på fremtiden. Det kan spilles av hvem som helst, men er spesielt relevant for fremtidstenkere, kunstnere, designere og teknologer, så vel som alle som har ansvar for å engasjere eller konsultere publikum. Spillere (enkeltpersoner eller lag) konkurrerer om å utforme scenarier for nye typer deltakende fremtidsaktiviteter som kombinerer nye teknologier og fokuserer på å takle utfordringer fra det 21. århundre, for eksempel tap av biologisk mangfold eller ekstreme værhendelser. 
 
-You can read more about the game and its development [on the Nesta website](https://www.nesta.org.uk/feature/our-futures/).
+Skaperen av spillet, [Nesta](https://nesta.org), har utgitt designfilene med en åpen lisens slik at de kan oversettes eller tilpasses. På basis av disse filene har [Fremtenkt](https://fremtenkt.no) laget en norsk versjon til bruk i norskspråklige sammenhenger. Du kan lese mer om spillet og dets utvikling [på Nesta-nettstedet](https://www.nesta.org.uk/feature/our-futures/).
 
-## Using, Translating and Adapting
+I tråd med den åpne lisensen er det også fritt frem for andre å tilpasse denne norske versjonen av Våre fremtider.
 
-We have hosted these files on GitHub so that anyone can download them. It also means that you can modify them and upload new versions for others to use. If you're familiar with Git and GitHub you know what to do. If not, the instructions below will easily walk you through the steps.
+Instruksjoner for hvordan du gjør dette ved bruk av GitHub finner du nedenfor. 
 
-### Using
+## Bruke, oversette og tilpasse
 
-To download the game, simply click on the green 'Clone or download' button towards the top right of this page, then select 'Download ZIP'. Once the files have downloaded, unzip them and you're ready to go!
+Både det opprinnelige arkivet og denne norske versjonen er lagret fritt tilgjengelig på GitHub slik at hvem som helst kan laste dem ned.
 
-To download individual files, you can navigate to them by clicking on the file and folder links above. Once you have navigated to the file you want you can click the 'Download' button.
+Det betyr også at du kan endre dem og laste opp nye versjoner for andre å bruke. Hvis du er kjent med Git og GitHub, vet du hva du skal gjøre. Hvis ikke, vil instruksjonene nedenfor lett lede deg gjennom trinnene. 
 
-### Translating and Adapting
+### Bruke
 
-Once you have downloaded any of the files, we encourage you to use and adapt them within the terms of the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/). You may want to change the game or translate it into a different language.
+For å laste ned spillet, klikker du ganske enkelt på den grønne 'Klon eller last ned' knappen øverst til høyre på denne siden, og velg deretter 'Last ned ZIP'. Når filene har lastet ned, pakker du dem ut, og du er klar til å spille! For å laste ned enkeltfiler kan du navigere til dem ved å klikke på fil- og mappekoblingene ovenfor. Når du har navigert til filen du ønsker, kan du klikke på Last ned-knappen. 
 
-GitHub allows you to not only download and modify the game, but for it to also stay linked to the original version. This means that anyone who finds the game will be able to see all of the different versions people have made and navigate to them.
+### Oversettelse og tilpasning
 
-1. Create a GitHub account
-2. Click the 'Fork' button on the top right of this page
-3. Download the repository as a ZIP from your fork and unzip it following the instructions above
-4. Once you have made any modifications or created new files and arranged them into folders, press the 'Upload Files' button at the top of your forked project
-5. Drag the files or new folders into the upload box
-6. You're done! Your modified version of the game has been uploaded and is forever connected to the original
+Når du har lastet ned filene, oppfordrer vi deg til å bruke og tilpasse dem i tråd med vilkårene til [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Det kan for eksempel være ønskelig å endre noe ved spillet eller oversette det til et annet språk. Ved å bruke GitHub kan dine endringer både bli tilgjengelige for andre, og knyttes til den opprinnelige versjonen. Dette betyr at alle som finner spillet vil kunne se alle de forskjellige versjonene folk har laget og enkelt navigere mellom dem. 
 
-Enjoy!
+1. Opprett en GitHub-konto 
+2. Klikk på 'Fork' -knappen øverst til høyre på denne siden.
+3. Last ned filsamlingen som en ZIP fra «forken» din og pakk den ut ved å følge instruksjonene ovenfor. 
+4. Når du har gjort endringer eller opprettet ny filer og ordnet dem i mapper, trykk på "Last opp filer" -knappen øverst i prosjektet ditt.
+5. Dra filene eller nye mapper inn i opplastingsboksen.
+6. Ferdig! Din modifiserte versjon av spillet er lastet opp og er for alltid koblet til den originale. 
+
+Lykke til!
